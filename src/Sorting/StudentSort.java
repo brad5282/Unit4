@@ -1,18 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Sorting;
 
 import java.io.File;
 import java.util.Scanner;
 import javax.swing.DefaultListModel;
 
-/**
- *
- * @author brad5282
- */
+
 
 
 public class StudentSort extends javax.swing.JFrame {
